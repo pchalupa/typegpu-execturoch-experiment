@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "type-gpu-demo",
-    "slug": "type-gpu-demo",
+    "name": "typegpu-execturoch-experiment",
+    "slug": "typegpu-execturoch-experiment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "typegpudemo",
+    "scheme": "typegpu-execturoch-experiment",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.petrchalupa.typegpudemo"
+      "bundleIdentifier": "com.petrchalupa.typegpuexecturochexperiment"
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +19,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.petrchalupa.typegpudemo"
+      "package": "com.petrchalupa.typegpuexecturochexperiment"
     },
     "web": {
       "output": "static",
