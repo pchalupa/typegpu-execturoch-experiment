@@ -1,10 +1,10 @@
-import { Triangle } from '@/typegpu-example';
+import { TypeGpuExample } from '@/typegpu-example';
 import { StyleSheet, View } from 'react-native';
 
 export default function TypeGpuScreen() {
   return (
     <View style={styles.container}>
-      <Triangle />
+      <TypeGpuExample />
     </View>
   );
 }
